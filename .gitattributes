@@ -1,0 +1,9 @@
+
+*.java linguist-detectable=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+
+*.sql linguist-detectable=true
+
+*.jsp linguist-language=Java
